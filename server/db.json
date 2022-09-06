@@ -1,0 +1,151 @@
+{
+  "contacts": [
+    {
+      "id": "AAA@IIE",
+      "name": "Rajan",
+      "photo": "https://media.istockphoto.com/vectors/person-gray-photo-placeholder-man-vector-id1202490554?k=20&m=1202490554&s=612x612&w=0&h=Pkb9bPY7CT5whOt0yZDzGivGBs_CW2fAs0btjFaHCOg=",
+      "mobile": "848484848",
+      "email": "rajan@gmail.com",
+      "title": "Software Engineer",
+      "company": "HCL Tech",
+      "group": "2",
+      "debtProfile":"N10,000"
+    },
+    {
+      "id": "02999",
+      "name": "Rajan",
+      "photo": "https://media.istockphoto.com/photos/mannequin-head-picture-id152035008?k=20&m=152035008&s=612x612&w=0&h=o6KxN25QANZOJ6QTHAs1_4vnmUUqzJ43g1h2qJuSB88=",
+      "mobile": "192802802",
+      "email": "femiii@gmail.com",
+      "title": "Software Engineer",
+      "company": "Facebook Tech",
+      "group": "6",
+      "debtProfile":"N15,000"
+    },
+    {
+      "id": "BBYT98I3",
+      "name": "Kunle",
+      "photo": "https://images.all-free-download.com/images/graphiclarge/doll_display_dummy_face_223381.jpg",
+      "mobile": "029289380",
+      "email": "kunle@gmail.com",
+      "title": "UX Designer",
+      "company": "NACL Tech",
+      "group": "3",
+      "debtProfile":"N30,000"
+    },
+    {
+      "id": "38JJD@3",
+      "name": "Bayo",
+      "photo": "https://media.istockphoto.com/photos/beauty-face-of-mannequin-picture-id120725092?k=20&m=120725092&s=612x612&w=0&h=CBen9sOLa6RAoOVK2EPatgFOs3-xE8PmJcym8KHJHRw=",
+      "mobile": "8029223030",
+      "email": "bayo@gmail.com",
+      "title": "Devops Expert",
+      "company": "Amazon Tech",
+      "group": "4",
+      "debtProfile":"N35,000"
+    },
+    {
+      "id": "8E8JS$J&",
+      "name": "Lanre",
+      "photo": "https://www.maxpixel.net/static/photo/640/User-Man-Head-The-Dummy-Avatar-Jacket-Tie-Foot-659652.png",
+      "mobile": "109288383",
+      "email": "lanre@gmail.com",
+      "title": "FrontEnd Developer",
+      "company": "Google Tech",
+      "group": "2",
+      "debtProfile":"N15,000"
+    },
+    {
+      "name": "Femi Elujoba",
+      "photo": "",
+      "mobile": "08161165422",
+      "email": "elujobaoluwafemi@gmail.com",
+      "company": "",
+      "title": "MR",
+      "groupId": "5",
+      "id": "VhJt7qg",
+      "debtProfile":"N14,000"
+    },
+    {
+      "name": "Femi Elujoba",
+      "photo": "",
+      "mobile": "08161165422",
+      "email": "elujobaoluwafemi@gmail.com",
+      "company": "nnnna",
+      "title": "Mr",
+      "groupId": "3",
+      "id": "uljXUG9",
+      "debtProfile":"N18,000"
+    },
+    {
+      "name": "Femi Elujoba",
+      "photo": "",
+      "mobile": "08161165422",
+      "email": "elujobaoluwafemi@gmail.com",
+      "company": "nnnna",
+      "title": "Mr",
+      "groupId": "3",
+      "id": "8OHYUTA",
+      "debtProfile":"N60,000"
+    },
+    {
+      "name": "Femi Elujoba",
+      "photo": "",
+      "mobile": "08161165422",
+      "email": "elujobaoluwafemi@gmail.com",
+      "company": "nnnna",
+      "title": "Mr",
+      "groupId": "3",
+      "id": "om4bfoT",
+      "debtProfile":"N12,000"
+    },
+    {
+      "name": "Femi Elujoba",
+      "photo": "",
+      "mobile": "08161165422",
+      "email": "elujobaoluwafemi@gmail.com",
+      "company": "nnnna",
+      "title": "Mr",
+      "groupId": "3",
+      "id": "zKxO9pD"
+    },
+    {
+      "name": "Femi Elujoba",
+      "photo": "https://thumbs.dreamstime.com/b/vector-illustration-avatar-dummy-logo-collection-image-icon-stock-isolated-object-set-symbol-web-137160339.jpg",
+      "mobile": "08161165422",
+      "email": "elujobaoluwafemi@gmail.com",
+      "company": "nnnna",
+      "title": "Mr",
+      "groupId": "3",
+      "id": "tKtXUfc"
+    }
+
+   
+  ],
+  "group": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
