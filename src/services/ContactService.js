@@ -19,7 +19,14 @@ export class ContactService {
 
     static getAllContacts() {
         let dataURL = `${this.serverURL}/contacts`; 
-        return axios.get(dataURL); 
+        return axios.get(dataURL);
+        
+    }
+
+    static deleteContact(contactId) {
+        let dataURL = `${this.serverURL}/contacts/${contactId}`;
+        return axios.delete(dataURL)
+        
 
     }
 
@@ -37,7 +44,7 @@ export class ContactService {
     static editContact(contact) {
         let dataURL = `${this.serverURL}/contacts`; 
         return axios.put(dataURL, contact); 
-        
+
     }
 }
 
