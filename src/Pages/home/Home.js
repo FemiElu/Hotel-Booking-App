@@ -5,10 +5,16 @@ import '../home/home.css'
 import Featured from '../../components/featured/Featured';
 import PropertyList from '../../components/propertyList/PropertyList';
 import FeaturedProperties from '../../components/featuredProperties/FeaturedProperties';
-
+import MailList from '../../components/mailList/MailList';
 const Home = () => {
+
+
+const [count, setCount] = React.useState(0); 
+
+
+
   return (
-    <div><Navbar/>
+                    <div>
     <Header/>
     <div className='homeContainer'>  
     <Featured/>
@@ -16,6 +22,8 @@ const Home = () => {
     <PropertyList/>
     <h1 className='homeTitle'>Homes guests love</h1>
     <FeaturedProperties/>
+    <MailList/>
+    
     </div>
     </div>
   )
