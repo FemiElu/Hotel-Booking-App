@@ -1,5 +1,4 @@
 import React from 'react'; 
-import Navbar from '../../components/navbar/Navbar';
 import Header from '../../components/header/Header';
 import '../home/home.css'
 import Featured from '../../components/featured/Featured';
@@ -9,7 +8,6 @@ import MailList from '../../components/mailList/MailList';
 const Home = () => {
 
 
-const [count, setCount] = React.useState(0); 
 
 
 

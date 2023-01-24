@@ -4,18 +4,7 @@ import '../navbar/Navbar.css';
 const Navbar = () => {
 
   
-  const listing= [
-      {isPacked:true,
-      itemName:'books'},
-      {isPacked:false,
-      itemName:'board'},
-      {
-        isPacked:true,
-        itemName:'food'
-      }
 
-    
-  ]
   
   return (
     <div className='navbar'>
